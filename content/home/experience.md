@@ -18,27 +18,52 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Undergraduate Research Assistant"
+  company = "George Mason University"
+  company_url = "https://cs.gmu.edu"
+  location = "Fairfax, VA"
+  date_start = "2019-10-01"
   date_end = ""
   description = """
-  Responsibilities include:
+  Projects include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Graph-based Anomaly Detection Algorithm
+  * American Sign Language Recognition
+  
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Undergraduate Teaching Assistant"
+  company = "George Mason University"
+  company_url = "https://cs.gmu.edu"
+  location = "Fairfax, VA"
+  date_start = "2018-08-01"
+  date_end = "2019-12-01"
+  description = """
+  Courses:
+
+  * Object-oriented Programming (Java)
+  * Data Stuctures
+  * Data Mining
+  """
+
+[[experience]]
+  title = "Undergraduate Researcher"
+  company = "George Mason University"
+  company_url = "https://cs.gmu.edu"
+  location = "Fairfax, VA"
+  date_start = "2019-06-01"
+  date_end = "2019-08-01"
+  description = """
+  
+  American Sign Language Recognition Project
+  Tools: 
+
+  * Wireless Sensor 
+  * Kinect (3D Camera) 
+  * IMU (Motion-detection Sensor)  
+  "American Sign Language Recognition Using an FMCW Wireless Sensor" accepted in AAAI 2020 Student Abstract & Poster Program"
+  "Generative Multi-Stream Architecture For American Sign Language Recognition" accepted in 2019 MIT URTC 
+  """
 
 +++

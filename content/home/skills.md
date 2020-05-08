@@ -15,21 +15,21 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Python"
-  description = ""
+  icon = "code"
+  icon_pack = "fas"
+  name = "Programming"
+  description = "Python, Java, C, C++, SQL, R"
+  
+[[feature]]
+  icon = "laptop-code"
+  icon_pack = "fas"
+  name = "Machine Learning"
+  description = "Scikit-learn, Numpy, Pandas, Matplotlib, Tensorflow, Keras, PyTorch"  
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Machine Learning"
-  description = ""  
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = ""
-  description = "10%"
+  name = "Data Science"
+  description = "Feature Engineering, Data Analyitcs, Visualization"
 
 +++
